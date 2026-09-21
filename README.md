@@ -6,6 +6,7 @@
   <a href="mailto:alejandro.rodriguez@ehidra.com"><img src="https://img.shields.io/badge/Email_empresa-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email empresa" /></a>
   <a href="https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-romero-847b37219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
 ---
  
 ## 🏢 Sobre eHidra
